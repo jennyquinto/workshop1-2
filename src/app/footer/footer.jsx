@@ -9,7 +9,7 @@ import pinterest from '../../../public/images/icon-pinterest.svg';
 
 class Footer extends Component {
     listInputs = ["About", "Careers", "Events", "Products", "Support"];
-    render() {
+    render()  {
         return (
             <div className='footer'>
                 <section className='footer__left'>
